@@ -81,7 +81,7 @@
     "debug": "4.3.2",
     "dotenv": "10.0.0",
     "esbuild": "0.13.8",
-    "eslint": "7.32.0",
+    "eslint": "8.0.1",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-eslint-comments": "3.2.0",
     "eslint-plugin-jest": "25.2.2",
